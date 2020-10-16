@@ -1,0 +1,19 @@
+body{
+    background-color: 	#33a6cc
+}
+h1{
+    color: red
+}
+h2{
+    color: orange
+}
+h3{
+    color: yellow
+}
+h4{
+    color: green
+}
+p{
+    color: blue
+}
+p.dotted {border-style: dotted;}
